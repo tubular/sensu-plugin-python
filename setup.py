@@ -12,8 +12,7 @@ setup(
     long_description="""
     """,
     install_requires=[
-        'argparse',
-        'requests'
+        'requests',
     ],
     tests_require=[
         'pycodestyle',
